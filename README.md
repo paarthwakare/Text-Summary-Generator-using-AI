@@ -5,3 +5,5 @@ Designed to provide concise summaries of text documents. It uses advanced natura
 Clone: git clone https://github.com/your-username/text-summary-generator.git
 
 Run application: streamlit run Main.py
+
+Contributors: Paarth Wakare
